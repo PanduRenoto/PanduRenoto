@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandurenoto&label=Profile%20views&color=0e75b6&style=flat" alt="pandurenoto" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, TailwindCSS, PHP**
+- 🌱 I’m currently learning **JavaScript, TailwindCSS, PHP, ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pandurenoto.vercel.app/](https://portfolio-pandurenoto.vercel.app/)
 
