@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandurenoto&label=Profile%20views&color=0e75b6&style=flat" alt="pandurenoto" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, TailwindCSS, PHP, ReactJS**
+- 🌱 I’m currently learning **JavaScript, TailwindCSS, PHP, ReactJS, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-pandurenoto.vercel.app/](https://portfolio-pandurenoto.vercel.app/)
 
 - 📫 How to reach me **https://www.instagram.com/asepvindagnyr/**
 
-- ⚡ Fun fact **I think I'm a little bit hungry**
+- ⚡ Fun fact **Ayo Roll Depan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
