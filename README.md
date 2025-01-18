@@ -1,5 +1,5 @@
 ![logo](https://github.com/PanduRenoto/PanduRenoto/blob/main/bg.png)
-<h1 align="center">Hi 👋, I'm Pandu Renoto Widi Kusumo</h1>
+<h1 align="center">Hi👋, I'm Pandu Renoto Widi Kusumo</h1>
 <h3 align="center">Salam kenal teman-teman</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandurenoto&label=Profile%20views&color=0e75b6&style=flat" alt="pandurenoto" /> </p>
