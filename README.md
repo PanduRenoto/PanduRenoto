@@ -1,4 +1,3 @@
-![logo](https://github.com/PanduRenoto/PanduRenoto/blob/main/bg.png)
 <h1 align="center">Hi👋, I'm Pandu Renoto Widi Kusumo</h1>
 <h3 align="center">Salam kenal teman-teman</h3>
 
