@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandurenoto&label=Profile%20views&color=0e75b6&style=flat" alt="pandurenoto" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, TailwindCSS, TypeScript, React, NodeJS, NextJS, ExpressJS**
+- 🌱 I’m currently learning **React, NextJS, ExpressJS**
 
 - 👨‍💻 All of my projects are available at [https://pandurenoto-web-profile.vercel.app/](https://pandurenoto-web-profile.vercel.app/)
 
