@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://pandurenoto-web-profile.vercel.app/](https://pandurenoto-web-profile.vercel.app/)
 
-- 📫 How to reach me **https://www.instagram.com/asepvindagnyr/**
+- 📫 How to reach me **https://www.instagram.com/gunnakam/**
 
 - ⚡ Fun fact **Aku suka roll depan**
 
